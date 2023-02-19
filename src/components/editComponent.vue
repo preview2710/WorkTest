@@ -31,6 +31,7 @@ export default {
         return {
             info: {}
         }
+        
     },
     created() {
         let apiURL = `http://localhost:4000/api/edit-info/${this.$route.params.id}`

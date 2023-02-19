@@ -21,3 +21,14 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.navbar-brand{
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.btn{
+    margin: 0px 5px;
+    font-weight: bold;
+}
+</style>

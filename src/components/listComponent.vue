@@ -72,3 +72,23 @@ export default {
    
 }
 </script>
+
+<style scoped>
+th{
+    margin: 1rem 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+    background-color: skyblue;
+}
+.btn-danger{
+    margin: 0px 10px;
+    font-weight: bold;
+    background-color: red;
+    
+}
+.btn-success{
+    font-weight: bold;
+    background-color: violet;
+
+}
+</style>
